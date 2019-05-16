@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Photo Grid Maker</string>
+    <string name="main_title">Photo Grid Maker</string>
+    <string name="main_choose_pic">Select Image</string>
+    <string name="get_permission">Please authorize reading storage space</string>
+    <string name="get_pic_error">Unable to read image</string>
+    <string name="get_pic_save">save into the album</string>
+    <string name="pic_save_success">Successfully saved！</string>
+    <string name="share">Go to WeChat sharing</string>
+    <string name="net_wrok_unconnetion_text">Network connection failed</string>
+    <string name="GoogleId">262857711667-8rqjt5c0039jlre1138qld5945qmbsjb.apps.googleusercontent.com</string>
+    <string name="loading">loading</string>
+
+</resources>

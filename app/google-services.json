@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "262857711667",
+    "firebase_url": "https://photogridmaker-3f188.firebaseio.com",
+    "project_id": "photogridmaker-3f188",
+    "storage_bucket": "photogridmaker-3f188.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262857711667:android:50a226dd179667d1",
+        "android_client_info": {
+          "package_name": "com.PhotoGridMaker.Softsimplicity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262857711667-h9ipienv0f79fdgg1ci7pro44mj75jas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.PhotoGridMaker.Softsimplicity",
+            "certificate_hash": "cb84e23f43970c2dcd4434f78e0b6146bafa9628"
+          }
+        },
+        {
+          "client_id": "262857711667-8rqjt5c0039jlre1138qld5945qmbsjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC79KOoNviY87YmKuX8V-jMznMVRzswj8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262857711667-8rqjt5c0039jlre1138qld5945qmbsjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
